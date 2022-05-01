@@ -13,7 +13,7 @@
    "homepage": "https://github.com/maros/Zway-InfluxDbStats/",
    "icon": "icon.png",
    "maturity": "stable",
-   "moduleName": "InfluxDbStats",
+   "moduleName": "InfluxDb2Stats",
    "options": {
       "fields": {
          "server": {
