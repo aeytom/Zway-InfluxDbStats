@@ -37,7 +37,7 @@ InfluxDb2Stats.prototype.init = function (config) {
     var self = this;
 
     self.url = self.config.server + ':' + self.config.port + 
-        '/write' + 
+        '/api/v2/write' + 
         '?org=' + encodeURIComponent(self.config.organisation) +
         '&bucket=' + encodeURIComponent(self.config.bucket) +
         '&precision=ns';
