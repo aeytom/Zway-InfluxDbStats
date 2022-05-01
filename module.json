@@ -3,7 +3,10 @@
    "category": "logging",
    "defaults": {
       "description": "__m_descr__",
+      "server": "http://localhost",
       "port": 8086,
+      "organisation": "primary",
+      "bucket": "zway",
       "tags": [],
       "title": "__m_title__"
    },
