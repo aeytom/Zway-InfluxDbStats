@@ -30,7 +30,7 @@
             "order": 3
          },
          "bucket": {
-            "label": "__database_label__",
+            "label": "__bucket_label__",
             "order": 4
          },
          "token": {
